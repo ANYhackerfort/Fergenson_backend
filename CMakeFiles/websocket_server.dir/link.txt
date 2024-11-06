@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/websocket_server.dir/src/websocket_server.cpp.o -o websocket_server  /opt/homebrew/lib/libboost_system-mt.dylib -lpthread
